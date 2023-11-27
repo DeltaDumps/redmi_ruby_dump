@@ -1,0 +1,68 @@
+{
+  "packageName": "com.gorgeous.lite",
+  "forceDark": true,
+  "mainRule": 16,
+  "secondaryRule": 34,
+  "forceDarkActivityConfigList": [
+    {
+      "activityName": "com.gorgeous.lite.consumer.lynx.activity.StyleOpenActivity",
+      "forceDark": true,
+      "forceDarkViewConfigList": [
+        {
+          "viewName": "com.gorgeous.lite.consumer.lynx.widget.ShadowViewGroup",
+          "id": "floating_bar",
+          "forceDark": true,
+          "usage": 103,
+          "conditions": [
+            {
+              "parent": 0,
+              "viewName": "androidx.constraintlayout.widget.ConstraintLayout",
+              "index": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "activityName": "com.light.beauty.basisplatform.appsetting.AppSettingsActivity",
+      "forceDark": true,
+      "forceDarkViewConfigList": [
+        {
+          "viewName": "android.widget.ImageView",
+          "id": "left",
+          "forceDark": true,
+          "usage": 103,
+          "backgroundUsage": 103,
+          "conditions": [
+            {
+              "parent": 0,
+              "viewName": "com.light.beauty.uiwidget.view.MaterialTilteBar",
+              "index": -1,
+              "id": "title_bar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "activityName": "com.light.beauty.mainpage.MainActivity",
+      "forceDark": true,
+      "forceDarkViewConfigList": [
+        {
+          "viewName": "android.widget.RelativeLayout",
+          "id": "rl_save",
+          "forceDark": false,
+          "usage": 1,
+          "conditions": [
+            {
+              "parent": 0,
+              "viewName": "android.widget.LinearLayout",
+              "index": -1,
+              "id": "ll_decorate_bottom_container_old"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

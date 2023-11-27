@@ -1,0 +1,52 @@
+{
+  "localId": "c7433225-d04d-481e-82d9-b713352194d5",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "ec21bede9336a858efa54b7d1b918aca064ced0e",
+  "platform": 10,
+  "size": 2288094,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "fallback": "小米主题"
+  },
+  "designers": {
+    "fallback": "小米主题"
+  },
+  "titles": {
+    "fallback": "Note 12 潮流特别版主题"
+  },
+  "descriptions": {
+    "fallback": "欢迎来到 Redmi 的潮流世界！开机瞬间，悬浮 YIBO 跃然于屏幕之上 ；绿海桌面，每一个图标都为你点亮；息屏和充电，都能唤醒隐藏的惊喜！Note 12 潮流特别版主题，深度植入酷盖潮流元素，你一定喜欢。"
+  },
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_aod_small_0.jpg",
+      "preview_aod_0.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_aod_0.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "0704f06f-b133-408a-aeac-87c85fbd3dd4",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null,
+  "miuiAdapterVersion": "2.0"
+}
