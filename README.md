@@ -1,0 +1,14 @@
+# missi_phone_global-user 13 TP1A.220624.014 V14.0.6.0.TMOMIXM release-keys
+- manufacturer: xiaomi
+- platform: mt6877
+- codename: ruby
+- flavor: missi_phone_global-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: V14.0.6.0.TMOMIXM
+- tags: release-keys
+- fingerprint: Redmi/ruby_global/ruby:12/SP1A.210812.016/V14.0.6.0.TMOMIXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi_phone_global-user-13-TP1A.220624.014-V14.0.6.0.TMOMIXM-release-keys
+- repo: redmi_ruby_dump
